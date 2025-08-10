@@ -1,0 +1,2 @@
+# syncnn
+syncnn nuxt 
